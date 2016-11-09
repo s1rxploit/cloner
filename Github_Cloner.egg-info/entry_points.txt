@@ -1,0 +1,3 @@
+[console_scripts]
+ghclone = src.github_clone_user:main
+

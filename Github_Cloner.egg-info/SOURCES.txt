@@ -1,0 +1,9 @@
+setup.py
+Github_Cloner.egg-info/PKG-INFO
+Github_Cloner.egg-info/SOURCES.txt
+Github_Cloner.egg-info/dependency_links.txt
+Github_Cloner.egg-info/entry_points.txt
+Github_Cloner.egg-info/requires.txt
+Github_Cloner.egg-info/top_level.txt
+src/__init__.py
+src/github_clone_user.py
